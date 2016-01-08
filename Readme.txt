@@ -3,7 +3,7 @@ SETUP PROCESS FOR NEWS PORTAL APPLICATION
 STEP 1: Create and import database
 1.1.    Import the 'news_portal.sql' to your MySQL server from \Source\db\ directory to setup the application. This will create a schema named "news_portal" and import dummy data.
 1.1.a       Dummy account info after the import:
-            Email: ashiquebd@gmail.com
+            Email: mosrur@gmail.com
             Pass: test123
 
 STEP 2: Database configuration

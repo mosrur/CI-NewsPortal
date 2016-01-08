@@ -29,12 +29,3 @@ STEP 3: Email setup
 STEP 4: htaccess file
 4.1.    Update the .htaccess file from \Source\.htaccess and make appropriate changes in necessary.
 
-
-IMPLEMENTED FEATURES NOT MENTIONED IN SPECIFICATION
-===================================================
-- Validation for email, password strength, file size and other required fields wherever necessary.
-- Password recovery feature
-- Category and Tags for news items
--- Categories are hard-coded in database and assumed to be edited only from admin area (not implemented)
-- Search feature
-- Paginations for news list page has NOT been implemented
